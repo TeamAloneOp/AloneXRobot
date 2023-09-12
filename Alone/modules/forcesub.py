@@ -36,7 +36,7 @@ from Alone import BOT_ID
 from Alone import DRAGONS as DEVS
 from Alone import OWNER_ID
 from Alone import telethn as Rani
-from Alone.events import Dilwarinline
+from Alone.events import Aloneinline
 from Alone.events import register as Dilwarbot
 from Alone.modules.no_sql import fsub_db as db
 
