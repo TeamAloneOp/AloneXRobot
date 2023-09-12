@@ -32,7 +32,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode
 from telegram.ext import CallbackQueryHandler
 
 from Alone import BOT_NAME, OWNER_ID, SUPPORT_CHAT
-from Alone import Abishnoi as pbot
+from Alone import AloneX as pbot
 from Alone import dispatcher
 
 
