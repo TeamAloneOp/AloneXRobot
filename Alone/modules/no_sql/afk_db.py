@@ -27,7 +27,7 @@ SOFTWARE.
 #     TG  :- AloneXBots
 #     GITHUB :- TEAMALONEOP ""
 
-from Exon.modules.no_sql import Dilwardb
+from Alone.modules.no_sql import Dilwardb
 
 afkdb = Dilwardb.afk
 
