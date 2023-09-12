@@ -359,7 +359,7 @@ def help_button(update: Update, context: CallbackContext):
             help_buttons.append(
                 [
                     InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),
-                    InlineKeyboardButton(text=""Oғғɪᴄᴇ", url=f"https://t.me/AloneXBots"),
+                    InlineKeyboardButton(text="Oғғɪᴄᴇ", url=f"https://t.me/AloneXBots"),
                 ]
             )
             query.message.edit_text(
