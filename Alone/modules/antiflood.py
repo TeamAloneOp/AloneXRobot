@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ALONE_WAS_BOT69
+Copyright (c) 2022 TEAMALONEOP
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT1m
+# TG :- @ALONE_WAS_BOT
 #     UPDATE   :- ALONE_WAS_BOT_bots
 #     GITHUB :- TEAMALONEOP ""
 
