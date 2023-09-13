@@ -37,7 +37,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ �
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
 </h3></summary>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AloneXBot/AloneXRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneXRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 </details>
