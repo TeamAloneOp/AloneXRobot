@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @AloneX1m
-#     UPDATE   :- AloneX_bots
-#     GITHUB :- AloneX69 ""
+# TG :- @ALONE_WAS_BOT
+#     UPDATE   :- AloneXbots
+#     GITHUB :- TeamAloneOp ""
 
 
 import time
@@ -50,7 +50,7 @@ async def active_afk(_, message: Message):
             afktype = reasondb["type"]
             timeafk = reasondb["time"]
             data = reasondb["data"]
-            reason afk = reasondb["reason"]
+            reasonafk = reasondb["reason"]
             seenago = get_readable_time((int(time.time() - timeafk)))
             if afktype == "text":
                 send = await message.reply_text(
