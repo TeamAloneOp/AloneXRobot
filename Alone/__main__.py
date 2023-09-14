@@ -76,7 +76,7 @@ buttons = [
         InlineKeyboardButton(text=f"Sᴛᴀᴛs", callback_data="stats_callback"),
     ],
     [
-        InlineKeyboardButton(text="Oғғɪᴄᴇ", url=f"https://t.me/AloneXBots"),
+        InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="AXB_"),
         InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴘᴇʀ", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
