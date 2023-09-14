@@ -1,10 +1,24 @@
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
-**ᴋɪɴɢ ᴀʟᴏɴᴇ**
+<!--
+**TeamAloneOp/AloneXRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/TeamAloneOp/count.svg" />
+</p>
+
+
 
 <h2 align="center">
     ──「 ᴀʟᴏɴᴇ  ʀᴏʙᴏᴛ 」──
 </h2>
+
+<p align="center">
+  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
+</p>
 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AlonesHeaven) 
 
