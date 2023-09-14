@@ -64,7 +64,7 @@ async def participant_check(channel, user_id):
         return False
 
 
-@Dilwarbot(pattern="^/(fsub|Fsub|forcesubscribe|Forcesub|forcesub|Forcesubscribe) ?(.*)")
+@Alonebot(pattern="^/(fsub|Fsub|forcesubscribe|Forcesub|forcesub|Forcesubscribe) ?(.*)")
 async def fsub(event):
     if event.is_private:
         return
@@ -152,7 +152,7 @@ async def fsub_n(e):
         await e.client.edit_permissions(e.chat_id, e.sender_id, send_messages=False)
 
 
-@Dilwarinline(pattern=r"fs(\_(.*))")
+@Alonenline(pattern=r"fs(\_(.*))")
 async def unmute_fsub(event):
     user_id = int(((event.pattern_match.group(1)).decode()).split("_", 1)[1])
     if not event.sender_id == user_id:
