@@ -230,7 +230,8 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                     [
                         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),
                         InlineKeyboardButton(
-                            text="Oғғɪᴄᴇ", url=f"https://t.me/AloneXBots",
+                            sᴜᴘᴘᴏʀᴛ",
+                            callback_data="AXB_support",
                         ),
                     ]
                 )
@@ -359,7 +360,7 @@ def help_button(update: Update, context: CallbackContext):
             help_buttons.append(
                 [
                     InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),
-                    InlineKeyboardButton(text="Oғғɪᴄᴇ", url=f"https://t.me/AloneXBots"),
+                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="AXB_support"),
                 ]
             )
             query.message.edit_text(
