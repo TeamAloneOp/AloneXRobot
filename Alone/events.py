@@ -1,6 +1,6 @@
 from telethon import events
 
-from Alonne import telethn
+from Alone import telethn
 
 
 def register(**args):
