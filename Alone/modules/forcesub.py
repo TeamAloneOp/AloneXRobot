@@ -152,7 +152,7 @@ async def fsub_n(e):
         await e.client.edit_permissions(e.chat_id, e.sender_id, send_messages=False)
 
 
-@Alonenline(pattern=r"fs(\_(.*))")
+@Aloneinline(pattern=r"fs(\_(.*))")
 async def unmute_fsub(event):
     user_id = int(((event.pattern_match.group(1)).decode()).split("_", 1)[1])
     if not event.sender_id == user_id:
