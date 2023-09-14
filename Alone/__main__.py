@@ -229,9 +229,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                 help_buttons.append(
                     [
                         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),
-                        InlineKeyboardButton(
-                            sᴜᴘᴘᴏʀᴛ",
-                            callback_data="AXB_support",
+                        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="AXB_support",
                         ),
                     ]
                 )
