@@ -10,7 +10,7 @@ from Alone import (
     TOKEN,
     StartTime,
     dispatcher,
-    pbot,
+    AloneX,
     telethn,
     updater)
 
