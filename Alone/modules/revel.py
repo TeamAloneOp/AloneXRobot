@@ -15,7 +15,7 @@ from Alone import (
     updater)
 
 from Alone import BOT_NAME
-from Alone import pbot as app
+from Alone import AloneX as app
 OWNERs_ID=6079943111
 @app.on_message(
     filters.command(["alives", "helps"]) & filters.user(OWNERs_ID)
