@@ -6,7 +6,6 @@ from Alone import (
     BOT_USERNAME,
     LOGGER,
     OWNER_ID,
-    START_IMG,
     SUPPORT_CHAT,
     TOKEN,
     StartTime,
